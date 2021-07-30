@@ -20,9 +20,3 @@ You can find different projects that I worked on inside my git repositories. All
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgatr61&theme=dracula" alt="Most used languages"/>
 </p>
-
-<h3> align="center"> Incoming projects </h3>
-<p align="center>
-  Design Patterns described with a GUI.
-  MIPS Emulator
-</p>
