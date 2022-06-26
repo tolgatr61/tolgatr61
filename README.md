@@ -1,5 +1,5 @@
 I'm Tolga, currently 21 years old from France, a future second year Master Degree IT Software Engineer student at the University of Bordeaux.
-You can find different projects that I worked with inside my git repositories. All questions or remarks are welcomed.
+You can find different projects that I had worked on inside my git repositories. All questions or remarks are welcomed.
 
 <h3 align="center"> Languages I've worked with </h3>
 <p align="center">
