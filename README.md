@@ -31,4 +31,6 @@ Feel free to explore my Git repositories to see some of the projects I've been i
   <img src="https://img.shields.io/badge/LoopBack-%23424242.svg?style=for-the-badge&logo=loopback&logoColor=white" alt="LoopBack"/>
   <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
   <img src="https://img.shields.io/badge/Directus-%262626.svg?style=for-the-badge&logo=directus&logoColor=white" alt="Directus"/>
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET-%239512FF.svg?style=for-the-badge&logo=aspdotnet&logoColor=white" alt="ASP.NET"/>
 </p>
