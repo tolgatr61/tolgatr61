@@ -5,7 +5,7 @@ Hello, I'm Tolga. I'm 22 years old and living in France. I am the top of my clas
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -21,7 +21,7 @@ Hello, I'm Tolga. I'm 22 years old and living in France. I am the top of my clas
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Vite-%236646D6.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
@@ -31,6 +31,6 @@ Hello, I'm Tolga. I'm 22 years old and living in France. I am the top of my clas
   <img src="https://img.shields.io/badge/LoopBack-%23424242.svg?style=for-the-badge&logo=loopback&logoColor=white" alt="LoopBack"/>
   <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
   <img src="https://img.shields.io/badge/Directus-%262626.svg?style=for-the-badge&logo=directus&logoColor=white" alt="Directus"/>
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET-%239512FF.svg?style=for-the-badge&logo=aspdotnet&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET-%239512CC.svg?style=for-the-badge&logo=aspdotnet&logoColor=white" alt="ASP.NET"/>
 </p>
