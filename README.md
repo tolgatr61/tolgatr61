@@ -37,6 +37,7 @@ Hello, I'm Tolga. I'm 22 years old and living in France. I am the top of my clas
 </p>
 
 <h3 align="center">Contact Me</h3>
+<p align="center">For any professional inquiries, feel free to contact me by clicking on the button below.</p>
 <p align="center">
   <a href="mailto:tolgasahin61000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
