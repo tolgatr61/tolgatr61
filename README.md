@@ -1,5 +1,5 @@
 <h3 align="center">Description</h3>
-Hello, I'm Tolga. I'm 22 years old and living in France. I am the top of my class in the 2022-2023 Master's Degree program in IT Software Engineering at the University of Bordeaux. Additionally, I've recently gained professional experience as a Software Engineer at Orange Business. Feel free to explore my Git repositories to see some of the projects I've been involved in. I warmly welcome all questions and feedback !
+Hello, I'm Tolga, a 22-year-old passionate living in France. I excel in the 2022-2023 Master's Degree program in IT Software Engineering at the University of Bordeaux, where I ranked at the top of my class. I've recently gained professional experience as a Software Engineer at Orange Business. Feel free to explore my Git repositories to see some of the projects I've been involved in. I warmly welcome all questions and feedback!
 
 <h3 align="center">Languages</h3>
 <p align="center">
