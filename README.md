@@ -21,6 +21,7 @@ Hello, I'm Tolga. I'm 22 years old and living in France. I am the top of my clas
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Vite-%236646D6.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
