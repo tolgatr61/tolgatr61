@@ -34,3 +34,10 @@ Hello, I'm Tolga. I'm 22 years old and living in France. I am the top of my clas
   <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/ASP.NET-%239512CC.svg?style=for-the-badge&logo=aspdotnet&logoColor=white" alt="ASP.NET"/>
 </p>
+
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="mailto:tolgasahin61000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
